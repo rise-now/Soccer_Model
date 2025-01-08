@@ -4,3 +4,7 @@
 ![image](https://github.com/user-attachments/assets/10a8b5f1-3097-4b18-91a5-b9015a3c1fcb)
 
 只要修改season，和leagues两个参数，即可获得不同的数据。
+
+![image](https://github.com/user-attachments/assets/90b59755-bacc-4776-9a2b-f2c6eb095a61)
+
+最后自动save data
